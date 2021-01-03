@@ -4,8 +4,13 @@ pasta
 
 chicken
 
+beans
+pizza
+
 
 thankyou
+
+done
 
 
 Final Copy
